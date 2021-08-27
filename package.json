@@ -1,0 +1,9 @@
+{
+  "name": "mixed-messages",
+  "version": "0.0.0",
+  "description": "Mixed-Messages",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
