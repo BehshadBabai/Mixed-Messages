@@ -5,7 +5,7 @@ let msg = ['Believe in yourself. Your limitation—it\'s only your imagination.', 
 
 // function that generates random msg
 const generateRandomMsg = () => {
-    return msg[(Math.floor(Math.random()*6))];
+    return msg[(Math.floor(Math.random()*5))];
 };
 
 // displaying the random message
