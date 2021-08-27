@@ -28,7 +28,7 @@ each time the program is run.
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/Screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -45,9 +45,6 @@ Project is: in progress
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
 - Grabing basic info such as name from user and displaying it along with the random message
 
 
