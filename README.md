@@ -41,7 +41,7 @@ Program is run and each time a random message is shown
 
 
 ## Project Status
-Project is: in progress
+Project is: Complete
 
 
 ## Room for Improvement
