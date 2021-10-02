@@ -16,7 +16,7 @@
 
 
 ## General Information
-This program is written to showcase basic knowldege of developing and running apps in node.js. The program outputs a random message from a variety of 5 messages
+This program is written to showcase basic knowledge of developing and running apps in node.js. The program outputs a random message from a variety of 5 messages
 each time the program is run.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
